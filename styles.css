@@ -1,8 +1,17 @@
 /*  your css code here. If applicable */
-#navbar{
-	background-color:#D3D3D3;
+.container{
+	
 	padding:10px;
 	display:inline;
-	margin-right:1rem;
 	
+	
+}
+li{
+	margin-right:16px;
+	list-style:none;
+	
+}
+ul{
+	background-color:rgb(211,211,211);
+	display:flex;
 }
