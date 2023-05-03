@@ -3,7 +3,7 @@
 	
 	padding:10px;
 	display:inline;
-	
+	background-color:rgb(211,211,211);
 	
 }
 li{
@@ -12,6 +12,6 @@ li{
 	
 }
 ul{
-	background-color:rgb(211,211,211);
+/* 	background-color:rgb(211,211,211); */
 	display:flex;
 }
